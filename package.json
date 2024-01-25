@@ -1,0 +1,11 @@
+{
+  "name": "account",
+  "version": "1.0.0",
+  "description": "Microservice accounts",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "serverless deploy"
+  },
+  "author": "pablo.perdomo@fintutu.com",
+  "license": "ISC"
+}
